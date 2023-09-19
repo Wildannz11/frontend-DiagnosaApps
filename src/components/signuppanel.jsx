@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import logSvg from "../assets/log.svg";
 
 export default function SignupPanel({ onClick }) {
